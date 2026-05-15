@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+tqdm
+transformers
+peft
+datasets
+torch
+accelerate
+huggingface_hub
+scikit-learn
+catboost
+dask[dataframe]
+gradio
